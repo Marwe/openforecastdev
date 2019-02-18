@@ -1,2 +1,6 @@
 .hub_credentials
+*.zip
+*.SAFE
+*.tif
+*.tif.aux.xml
 
